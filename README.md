@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, eu sou o georgee</h1>
+<h1 align="center">bem-vindo ao meu github <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, eu sou o georgee</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=George&show_icons=true&theme=dracula)
  # sistemas operacionais
